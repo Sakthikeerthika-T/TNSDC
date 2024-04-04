@@ -34,3 +34,8 @@ The Yelp reviews polarity dataset is constructed by considering stars 1 and 2 ne
 
 # Results:
 
+My CNN model achieved an accuracy og 90.68% on the test set.
+
+
+
+
