@@ -10,6 +10,7 @@ In the vast sea of online reviews, distinguishing between positive and negative 
 # About the dataset:
 The Yelp reviews polarity dataset is constructed by considering stars 1 and 2 negative, and 3 and 4 positive. For each polarity 280,000 training samples and 19,000 testing samples are take randomly. In total there are 560,000 trainig samples and 38,000 testing samples. Negative polarity is class 1, and positive class 2.
 
+datset link: https://www.kaggle.com/datasets/omkarsabnis/yelp-reviews-dataset
 # Steps:
 
 1.Download and Imports
